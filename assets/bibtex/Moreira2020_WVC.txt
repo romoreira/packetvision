@@ -1,0 +1,13 @@
+@INPROCEEDINGS{Moreira2020Sibgrapi, 
+  author={R. {Moreira} and L. F. {Rodrigues} and P. F. {Rosa} and R. L. {Aguiar} and F. O. {Silva}}, 
+  booktitle={Workshop de Visão Computacional}, 
+  title={Improving the network traffic classification using the Packet Vision approach}, 
+  year={2020}, 
+  volume={}, 
+  number={}, 
+  pages={1-8}, 
+  keywords={network traffic classification; traffic classification; convolutional neural networks; SDN; data augmentation; fine-tuning},
+  doi={XXXX},
+  ISSN={xxxx},
+  month={Oct},
+}
