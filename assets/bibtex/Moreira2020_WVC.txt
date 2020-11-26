@@ -8,6 +8,6 @@
   pages={1-8}, 
   keywords={network traffic classification; traffic classification; convolutional neural networks; SDN; data augmentation; fine-tuning},
   doi={XXXX},
-  ISSN={xxxx},
+  ISSN={2175-6120},
   month={Oct},
 }
