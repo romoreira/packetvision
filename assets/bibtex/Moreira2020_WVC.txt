@@ -3,11 +3,9 @@
   booktitle={Workshop de Visão Computacional}, 
   title={Improving the network traffic classification using the Packet Vision approach}, 
   year={2020}, 
-  volume={}, 
-  number={}, 
+  number={146-151}, 
   pages={1-8}, 
   keywords={network traffic classification; traffic classification; convolutional neural networks; SDN; data augmentation; fine-tuning},
-  doi={XXXX},
   ISSN={2175-6120},
   month={Oct},
 }
