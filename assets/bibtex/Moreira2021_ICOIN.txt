@@ -1,0 +1,9 @@
+@INPROCEEDINGS{Moreira2021,
+  author={R. {Moreira} and L. F. {Rodrigues} and P. F. {Rosa} and R. L. {Aguiar} and F. d. O. {Silva}},
+  booktitle={2021 International Conference on Information Networking (ICOIN)}, 
+  title={Enhancing dynamism in management and network slice establishment through deep learning}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={321-326},
+  doi={10.1109/ICOIN50884.2021.9333872}}
